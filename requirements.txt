@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-cohere
+langchain-experimental
+neo4j
+python-dotenv
+cohere
