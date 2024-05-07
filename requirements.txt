@@ -5,3 +5,7 @@ langchain-experimental
 neo4j
 python-dotenv
 cohere
+llama-index-graph-stores-neo4j
+llama-index
+llama-index-embeddings-cohere
+llama-index-llms-cohere
